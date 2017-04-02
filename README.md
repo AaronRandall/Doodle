@@ -1,5 +1,5 @@
 # Doodle
-A handwritten font
+A handwritten font.
 
 ## Installation (Mac)
 Download [Doodle.otf](https://github.com/AaronRandall/Doodle/raw/master/Doodle.otf), then:
